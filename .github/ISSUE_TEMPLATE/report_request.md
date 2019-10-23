@@ -10,7 +10,7 @@ assignees: ''
 **Please describe the information you need in your report.**
 A clear and concise description of the information you need. Ex. I need a list of all referrals that [...]
 
-**Is your report request a one-time request, or a query that will be needed on-demand in the future?
+**Is your report request a one-time request, or a query that will be needed on-demand in the future?**
 
 - [ ] One-time request
 - [ ] On-Demand
