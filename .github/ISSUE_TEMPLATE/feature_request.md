@@ -21,6 +21,8 @@ Add any other context or screenshots about the feature request here.
 
 **Prioritization Process**
 
+[ ] Confirm the issue is a feature to which we want to devote resources. 
+
 [ ] Write user story in `as a (role) I want (something) so that (benefit)` format. 
 
 [ ] Label story Large, Uncertain, Small. If the story is too large, convert the story to a milestone/epic. 
