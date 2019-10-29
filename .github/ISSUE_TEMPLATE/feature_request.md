@@ -29,4 +29,4 @@ Add any other context or screenshots about the feature request here.
 
 [ ] Prioritize the story relative to other items in the [active backlog](https://github.com/cssat/sprout-issues/projects/1).
 
-[ ] Review progress on weekly collaboration meeting. 
+[ ] Review progress/priorities in weekly collaboration meeting. 
