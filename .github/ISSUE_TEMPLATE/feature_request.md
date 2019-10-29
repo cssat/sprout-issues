@@ -21,14 +21,14 @@ Add any other context or screenshots about the feature request here.
 
 **Prioritization Process**
 
-[ ] Confirm the issue is a feature to which we want to devote resources. 
+- [ ] Confirm the issue is a feature to which we want to devote resources. 
 
-[ ] Write user story in `as a (role) I want (something) so that (benefit)` format. 
+- [ ] Write user story in `as a (role) I want (something) so that (benefit)` format. 
 
-[ ] Label story Large, Uncertain, Small. If the story is too large, convert the story to a milestone/epic. 
+- [ ] Label story Large, Uncertain, Small. If the story is too large, convert the story to a milestone/epic. 
 
-[ ] Label story as an [active backlog](https://github.com/cssat/sprout-issues/projects/1) issue (i.e. an issue on which we will be actively working).
+- [ ] Label story as an [active backlog](https://github.com/cssat/sprout-issues/projects/1) issue (i.e. an issue on which we will be actively working).
 
-[ ] Prioritize the story relative to other items in the [active backlog](https://github.com/cssat/sprout-issues/projects/1).
+- [ ] Prioritize the story relative to other items in the [active backlog](https://github.com/cssat/sprout-issues/projects/1).
 
-[ ] Review progress/priorities in weekly collaboration meeting. 
+- [ ] Review progress/priorities in weekly collaboration meeting. 
