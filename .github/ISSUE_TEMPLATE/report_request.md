@@ -12,8 +12,5 @@ A clear and concise description of the information you need. Ex. I need a list o
 
 **Is your report request a one-time request, or a query that will be needed on-demand in the future?**
 
-- [ ] One-time request
-- [ ] On-Demand
-
 **Please describe the business need for your report.**
 A clear and concise description of how the information will be used. Ex. To audit providers with access to Sprout [...]
